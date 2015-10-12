@@ -27,6 +27,9 @@ defmodule Myapp.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [ {:maru, "~> 0.8"} ]
+    [
+      {:maru, "~> 0.8"},
+      {:mongo, "~> 0.5"}
+    ]
   end
 end

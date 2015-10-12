@@ -1,6 +1,8 @@
-%{"cowboy": {:hex, :cowboy, "1.0.3"},
+%{"bson": {:hex, :bson, "0.4.4"},
+  "cowboy": {:hex, :cowboy, "1.0.3"},
   "cowlib": {:hex, :cowlib, "1.0.1"},
   "maru": {:hex, :maru, "0.8.3"},
+  "mongo": {:hex, :mongo, "0.5.2"},
   "plug": {:hex, :plug, "1.0.2"},
   "poison": {:hex, :poison, "1.5.0"},
   "ranch": {:hex, :ranch, "1.1.0"}}
